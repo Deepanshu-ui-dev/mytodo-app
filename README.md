@@ -1,16 +1,51 @@
-# todo_app
+# MyTodo App (Flutter)
 
-A new Flutter project.
+A modern **To-Do List application** built in **Flutter** using Material UI, created to learn and practice real-world Flutter concepts step by step.
 
-## Getting Started
+Manage your daily tasks with priorities, due dates, completion tracking, and swipe-to-delete interactions.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 What I learned while building this
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter widgets & layouts  
+- Stateless vs Stateful widgets  
+- State management using `setState`  
+- Forms & user input handling  
+- Date picker integration  
+- ListView & Dismissible (swipe gestures)  
+- Basic animations & UI polish  
+- Responsive layouts  
+- Git & GitHub workflow (building in public)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Features
+
+- Splash screen with smooth animation  
+- Add tasks with:
+  - Title
+  - Due date
+  - Priority (Low / Medium / High)
+- Mark tasks as completed  
+- Swipe to delete tasks  
+- Responsive UI (mobile & tablet friendly)  
+- Clean and modern Material design  
+
+---
+
+## 📦 Tech Stack
+
+- Flutter (3.x)  
+- Dart  
+- Material Design  
+
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/Deepanshu-ui-dev/mytodo-app.git
+cd mytodo-app
+flutter pub get
+flutter run
