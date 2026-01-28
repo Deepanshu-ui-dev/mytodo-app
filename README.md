@@ -46,6 +46,6 @@ Manage your daily tasks with priorities, due dates, completion tracking, and swi
 
 ```bash
 git clone https://github.com/Deepanshu-ui-dev/mytodo-app.git
-cd mytodo-app
+cd todo_app
 flutter pub get
 flutter run
